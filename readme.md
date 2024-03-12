@@ -1,6 +1,9 @@
-WELCOME TO COVID VIRUS ATTACK GAME
+###WELCOME TO COVID VIRUS ATTACK GAME
 
-OVERVIEW:
+-watch video demo by clicking the link below!!
+https://drive.google.com/file/d/1-HLGlladUvfl9xsyXuMoL3G6xp_rWADe/view?usp=sharing
+
+##OVERVIEW:
 Welcome to covid virus attack game. A player appears in city that is under 
 attack by deadly viruses. The player avoids viruses dropping towards the
 ground by moving left, right, up or down, and tries to reach for 
