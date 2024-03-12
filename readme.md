@@ -8,9 +8,8 @@ https://drive.google.com/file/d/1-HLGlladUvfl9xsyXuMoL3G6xp_rWADe/view?usp=shari
 ![demo-pic](https://github.com/camandacole/CovidVirusAttackGame/assets/44839897/ee22ce92-052c-4d55-9e24-872c16215b53)
 
 Welcome to covid virus attack game. A player appears in city that is under 
-attack by deadly viruses. The player avoids viruses dropping towards the
-ground by moving left, right, up or down, and tries to reach for 
-antitote/vaccine to boost its immunity level. The immunity level is displayed on 
+attack by deadly viruses. The player avoids viruses coming from above by moving left, right, up or down, and tries to reach for 
+antidote/vaccine to boost its immunity level. The immunity level is displayed on 
 the game screen, and is equivalent to the player's life. If immunity level is 
 down to zero, and it get hit by a virus, player dies and game ends.
 Players initial immunity level/life is 10, and it decreases when it is hit by a
